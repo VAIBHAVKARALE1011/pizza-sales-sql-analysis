@@ -68,8 +68,11 @@ CREATE TABLE order_details (
 -- Pizza Sales Analysis Queries
 -- ============================================
 
--- 1. Total number of orders
-SELECT COUNT(order_id) AS total_order FROM orders;
+-- Q.1) Retrieve the total number of orders placed.
+SELECT 
+    COUNT(order_id) AS total_order
+FROM
+    orders;
 
 -- 2. Total revenue generated
 SELECT ROUND(SUM(order_details.quantity * pizzas.price), 2) AS total_sales
