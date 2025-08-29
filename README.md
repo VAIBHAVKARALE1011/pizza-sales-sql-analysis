@@ -48,3 +48,16 @@ This project analyzes **pizza sales data** to extract business insights using My
    ```bash
    git clone https://github.com/VAIBHAVKARALE1011/pizza-sales-sql-analysis.git
    cd pizza-sales-sql-analysis
+
+---
+
+---
+
+## 👤 Author  
+
+**Vaibhav Karale**  
+
+- [GitHub](https://github.com/VAIBHAVKARALE1011)  
+- [LinkedIn](https://www.linkedin.com/in/vaibhavkarale)  
+
+---
