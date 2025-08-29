@@ -1,7 +1,6 @@
 # 🍕 Pizza Sales Analysis Using SQL  
 
-This project analyzes **pizza sales data** to extract business insights using SQL.  
-Created by **Vaibhav Karale**.  
+This project analyzes **pizza sales data** to extract business insights using MySQL.  
 
 ---
 
